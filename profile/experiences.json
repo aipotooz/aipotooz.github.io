@@ -3,32 +3,32 @@
         {
             "title": "Full Stack Developer",
             "subtitle": "XYZ Ltd",
-            "workType": "Self-Employed",
+            "workType": "orthobrain",
             "workDescription": [
-                "Built reusable components that can be used across multiple pages/features as well as built reusable libraries of functions or utilities that are commonly needed throughout the application.",
-                "Experience with high-performance web delivery, cloud (AWS) and DevOps"
+                "As a full-stack developer, I have good experience of building ecommerce websites with WordPress. I gained extensive experience with HTML/CSS/JavaScript/Vue skills.",
+                "I had done a lot of works such as integrating APIs, creating plugins and customizing themes using WordPress, PHP."
             ],
-            "dateText": "03/2022 – Present"
+            "dateText": "10/2023 – 12/2023"
         },
         {
             "title": "Front-End Developer",
             "subtitle": "XYZ Ltd",
-            "workType": "X-Team, Remote",
+            "workType": "Primary PartnerCare®, Remote",
             "workDescription": [
-                "Worked with the senior developer to create a new website from scratch using HTML, CSS and JavaScript",
-                "Built single page applications (SPA), responsive web design, UI using HTML5 grid layouts, CSS3 media queries where its an expression and can be used to either true or false."
+                "I participated in a project under development and made revisions to several pages using WordPress Plugin, WordPress Theme and WordPress Websites. During this process I gained extensive experience with Html, CSS, Javascript and SimpleCSS plugin.",
+                "In find-doctor page, I used React to design the entire page, build the page, and combine it with the original project using plugins. During this process, I gained extensive experience with Html, CSS, Javascript, Typescript and React."
             ],
-            "dateText": "01/2017 – 11/2021"
+            "dateText": "06/2023 – 09/2023"
         },
         {
-            "title": "Back-End Developer",
+            "title": "Frontend Developer",
             "subtitle": "ABC Pvt Ltd",
-            "workType": "X-Team, Remote",
+            "workType": "Capital One, Remote",
             "workDescription": [
-                "Used several languages and frameworks to build products including Node/Express, Python/Django, Ruby/Rails, and C#/.NETwith React,Vue.js and Angular",
-                "Collaborated closelywith other developers on crossfunctional teams including front-end engineers, designers, QA testers etc."
+                "To address performance issues, I implemented various techniques such as lazy loading, code minification, and caching mechanisms. During this process I gained extensive experience with Javascript, Typescript, Angular and Node.JS.",
+                "Creating a responsive design that adapts seamlessly to different screen sizes and devices was another challenge. During this process I gained extensive experience with Html, CSS, Javascript, Bootstrap, Typescript and Angular."
             ],
-            "dateText": "02/2012 – 11/2016"
+            "dateText": "12/2022 – 04/2023"
         }
     ]
 }
